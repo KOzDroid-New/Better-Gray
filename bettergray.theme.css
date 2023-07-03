@@ -1,0 +1,10 @@
+/**
+ * @name Better Gray Theme
+ * @author @kozdroid
+ * @version 1.0.0
+ * @description A theme that just changes the gray in the background
+*/
+
+:root {
+    --background-primary: transparent;
+}
